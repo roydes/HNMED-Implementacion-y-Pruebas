@@ -1,0 +1,2200 @@
+>> C_D_Experimentos
+Warning: Directory already exists. 
+> In C_D_Experimentos at 31 
+Warning: Directory already exists. 
+> In C_D_Experimentos at 35 
+Warning: Directory already exists. 
+> In C_D_Experimentos at 39 
+
+Problema =
+
+     6
+
+
+Evaluaciones =
+
+       11000
+
+
+N =
+
+     4
+
+
+Cantidad_Simplex =
+
+     7
+
+
+Poblacion =
+
+    35
+
+
+corrida =
+
+     1
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+
+
+corrida =
+
+     2
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+
+
+corrida =
+
+     3
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+
+
+corrida =
+
+     4
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+
+
+corrida =
+
+     5
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+
+
+corrida =
+
+     6
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+
+
+corrida =
+
+     7
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+
+
+corrida =
+
+     8
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+
+
+corrida =
+
+     9
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+
+
+corrida =
+
+    10
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+
+
+corrida =
+
+    11
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+
+
+corrida =
+
+    12
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+
+
+corrida =
+
+    13
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+
+
+corrida =
+
+    14
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+
+
+corrida =
+
+    15
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+
+
+corrida =
+
+    16
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+
+
+corrida =
+
+    17
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+  -5.320559691766392  -5.292206355021023  -5.289409453270417  -5.242898633464952  -5.321611764666309  -5.317179610259987
+
+
+corrida =
+
+    18
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+  -5.320559691766392  -5.292206355021023  -5.289409453270417  -5.242898633464952  -5.321611764666309  -5.317179610259987
+  -5.320531933559382  -4.937929328122909  -5.279092204167989  -5.436333062293302  -5.305147923665494  -5.320968525298468
+
+
+corrida =
+
+    19
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+  -5.320559691766392  -5.292206355021023  -5.289409453270417  -5.242898633464952  -5.321611764666309  -5.317179610259987
+  -5.320531933559382  -4.937929328122909  -5.279092204167989  -5.436333062293302  -5.305147923665494  -5.320968525298468
+  -5.320554018412647  -5.439058300305046  -5.294746305287527  -5.421262460555997  -5.318525230756853  -5.312984870089344
+
+
+corrida =
+
+    20
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+  -5.320559691766392  -5.292206355021023  -5.289409453270417  -5.242898633464952  -5.321611764666309  -5.317179610259987
+  -5.320531933559382  -4.937929328122909  -5.279092204167989  -5.436333062293302  -5.305147923665494  -5.320968525298468
+  -5.320554018412647  -5.439058300305046  -5.294746305287527  -5.421262460555997  -5.318525230756853  -5.312984870089344
+  -5.320593673863827  -5.442511638400649  -5.314561374578706  -5.311899071408957  -5.292727810521426  -5.320631045817967
+
+
+corrida =
+
+    21
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+  -5.320559691766392  -5.292206355021023  -5.289409453270417  -5.242898633464952  -5.321611764666309  -5.317179610259987
+  -5.320531933559382  -4.937929328122909  -5.279092204167989  -5.436333062293302  -5.305147923665494  -5.320968525298468
+  -5.320554018412647  -5.439058300305046  -5.294746305287527  -5.421262460555997  -5.318525230756853  -5.312984870089344
+  -5.320593673863827  -5.442511638400649  -5.314561374578706  -5.311899071408957  -5.292727810521426  -5.320631045817967
+  -5.320557882122681  -5.303602587559668  -5.092799047379137  -5.314401888884655  -5.312048374858552  -5.319743831000077
+
+
+corrida =
+
+    22
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+  -5.320559691766392  -5.292206355021023  -5.289409453270417  -5.242898633464952  -5.321611764666309  -5.317179610259987
+  -5.320531933559382  -4.937929328122909  -5.279092204167989  -5.436333062293302  -5.305147923665494  -5.320968525298468
+  -5.320554018412647  -5.439058300305046  -5.294746305287527  -5.421262460555997  -5.318525230756853  -5.312984870089344
+  -5.320593673863827  -5.442511638400649  -5.314561374578706  -5.311899071408957  -5.292727810521426  -5.320631045817967
+  -5.320557882122681  -5.303602587559668  -5.092799047379137  -5.314401888884655  -5.312048374858552  -5.319743831000077
+  -5.320550843349110  -5.456428869597547  -5.291864832988902  -5.434555364562543  -5.244257761167827  -5.320690592380605
+
+
+corrida =
+
+    23
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+  -5.320559691766392  -5.292206355021023  -5.289409453270417  -5.242898633464952  -5.321611764666309  -5.317179610259987
+  -5.320531933559382  -4.937929328122909  -5.279092204167989  -5.436333062293302  -5.305147923665494  -5.320968525298468
+  -5.320554018412647  -5.439058300305046  -5.294746305287527  -5.421262460555997  -5.318525230756853  -5.312984870089344
+  -5.320593673863827  -5.442511638400649  -5.314561374578706  -5.311899071408957  -5.292727810521426  -5.320631045817967
+  -5.320557882122681  -5.303602587559668  -5.092799047379137  -5.314401888884655  -5.312048374858552  -5.319743831000077
+  -5.320550843349110  -5.456428869597547  -5.291864832988902  -5.434555364562543  -5.244257761167827  -5.320690592380605
+  -5.320574182189452  -5.236587893343406  -5.230712373183670  -5.653100514040618  -5.317585414483020  -5.318887007852462
+
+
+corrida =
+
+    24
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+  -5.320559691766392  -5.292206355021023  -5.289409453270417  -5.242898633464952  -5.321611764666309  -5.317179610259987
+  -5.320531933559382  -4.937929328122909  -5.279092204167989  -5.436333062293302  -5.305147923665494  -5.320968525298468
+  -5.320554018412647  -5.439058300305046  -5.294746305287527  -5.421262460555997  -5.318525230756853  -5.312984870089344
+  -5.320593673863827  -5.442511638400649  -5.314561374578706  -5.311899071408957  -5.292727810521426  -5.320631045817967
+  -5.320557882122681  -5.303602587559668  -5.092799047379137  -5.314401888884655  -5.312048374858552  -5.319743831000077
+  -5.320550843349110  -5.456428869597547  -5.291864832988902  -5.434555364562543  -5.244257761167827  -5.320690592380605
+  -5.320574182189452  -5.236587893343406  -5.230712373183670  -5.653100514040618  -5.317585414483020  -5.318887007852462
+  -5.320590242941817  -5.456845167720689  -5.296159277883681  -5.345470038945561  -5.322705554493575  -5.343818004588537
+
+
+corrida =
+
+    25
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+  -5.320559691766392  -5.292206355021023  -5.289409453270417  -5.242898633464952  -5.321611764666309  -5.317179610259987
+  -5.320531933559382  -4.937929328122909  -5.279092204167989  -5.436333062293302  -5.305147923665494  -5.320968525298468
+  -5.320554018412647  -5.439058300305046  -5.294746305287527  -5.421262460555997  -5.318525230756853  -5.312984870089344
+  -5.320593673863827  -5.442511638400649  -5.314561374578706  -5.311899071408957  -5.292727810521426  -5.320631045817967
+  -5.320557882122681  -5.303602587559668  -5.092799047379137  -5.314401888884655  -5.312048374858552  -5.319743831000077
+  -5.320550843349110  -5.456428869597547  -5.291864832988902  -5.434555364562543  -5.244257761167827  -5.320690592380605
+  -5.320574182189452  -5.236587893343406  -5.230712373183670  -5.653100514040618  -5.317585414483020  -5.318887007852462
+  -5.320590242941817  -5.456845167720689  -5.296159277883681  -5.345470038945561  -5.322705554493575  -5.343818004588537
+  -5.320551731157155  -5.324815743434106  -5.318774269877438  -5.761374565589662  -5.385323554971225  -5.309933183187606
+
+
+corrida =
+
+    26
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+  -5.320559691766392  -5.292206355021023  -5.289409453270417  -5.242898633464952  -5.321611764666309  -5.317179610259987
+  -5.320531933559382  -4.937929328122909  -5.279092204167989  -5.436333062293302  -5.305147923665494  -5.320968525298468
+  -5.320554018412647  -5.439058300305046  -5.294746305287527  -5.421262460555997  -5.318525230756853  -5.312984870089344
+  -5.320593673863827  -5.442511638400649  -5.314561374578706  -5.311899071408957  -5.292727810521426  -5.320631045817967
+  -5.320557882122681  -5.303602587559668  -5.092799047379137  -5.314401888884655  -5.312048374858552  -5.319743831000077
+  -5.320550843349110  -5.456428869597547  -5.291864832988902  -5.434555364562543  -5.244257761167827  -5.320690592380605
+  -5.320574182189452  -5.236587893343406  -5.230712373183670  -5.653100514040618  -5.317585414483020  -5.318887007852462
+  -5.320590242941817  -5.456845167720689  -5.296159277883681  -5.345470038945561  -5.322705554493575  -5.343818004588537
+  -5.320551731157155  -5.324815743434106  -5.318774269877438  -5.761374565589662  -5.385323554971225  -5.309933183187606
+  -5.320554524988156  -5.023171587518927  -5.303378686581757  -5.316816877692335  -5.305386211296313  -5.317827196340719
+
+
+corrida =
+
+    27
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+  -5.320559691766392  -5.292206355021023  -5.289409453270417  -5.242898633464952  -5.321611764666309  -5.317179610259987
+  -5.320531933559382  -4.937929328122909  -5.279092204167989  -5.436333062293302  -5.305147923665494  -5.320968525298468
+  -5.320554018412647  -5.439058300305046  -5.294746305287527  -5.421262460555997  -5.318525230756853  -5.312984870089344
+  -5.320593673863827  -5.442511638400649  -5.314561374578706  -5.311899071408957  -5.292727810521426  -5.320631045817967
+  -5.320557882122681  -5.303602587559668  -5.092799047379137  -5.314401888884655  -5.312048374858552  -5.319743831000077
+  -5.320550843349110  -5.456428869597547  -5.291864832988902  -5.434555364562543  -5.244257761167827  -5.320690592380605
+  -5.320574182189452  -5.236587893343406  -5.230712373183670  -5.653100514040618  -5.317585414483020  -5.318887007852462
+  -5.320590242941817  -5.456845167720689  -5.296159277883681  -5.345470038945561  -5.322705554493575  -5.343818004588537
+  -5.320551731157155  -5.324815743434106  -5.318774269877438  -5.761374565589662  -5.385323554971225  -5.309933183187606
+  -5.320554524988156  -5.023171587518927  -5.303378686581757  -5.316816877692335  -5.305386211296313  -5.317827196340719
+  -5.320521141325150  -5.333134252048731  -5.135042034598299  -5.315776793901989  -5.318300761419817  -5.347586224831380
+
+
+corrida =
+
+    28
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+  -5.320559691766392  -5.292206355021023  -5.289409453270417  -5.242898633464952  -5.321611764666309  -5.317179610259987
+  -5.320531933559382  -4.937929328122909  -5.279092204167989  -5.436333062293302  -5.305147923665494  -5.320968525298468
+  -5.320554018412647  -5.439058300305046  -5.294746305287527  -5.421262460555997  -5.318525230756853  -5.312984870089344
+  -5.320593673863827  -5.442511638400649  -5.314561374578706  -5.311899071408957  -5.292727810521426  -5.320631045817967
+  -5.320557882122681  -5.303602587559668  -5.092799047379137  -5.314401888884655  -5.312048374858552  -5.319743831000077
+  -5.320550843349110  -5.456428869597547  -5.291864832988902  -5.434555364562543  -5.244257761167827  -5.320690592380605
+  -5.320574182189452  -5.236587893343406  -5.230712373183670  -5.653100514040618  -5.317585414483020  -5.318887007852462
+  -5.320590242941817  -5.456845167720689  -5.296159277883681  -5.345470038945561  -5.322705554493575  -5.343818004588537
+  -5.320551731157155  -5.324815743434106  -5.318774269877438  -5.761374565589662  -5.385323554971225  -5.309933183187606
+  -5.320554524988156  -5.023171587518927  -5.303378686581757  -5.316816877692335  -5.305386211296313  -5.317827196340719
+  -5.320521141325150  -5.333134252048731  -5.135042034598299  -5.315776793901989  -5.318300761419817  -5.347586224831380
+  -5.320561550468303  -5.461198326775381  -5.519295905254730  -5.232056346436732  -5.322678243891497  -5.325226041548823
+
+
+corrida =
+
+    29
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+  -5.320559691766392  -5.292206355021023  -5.289409453270417  -5.242898633464952  -5.321611764666309  -5.317179610259987
+  -5.320531933559382  -4.937929328122909  -5.279092204167989  -5.436333062293302  -5.305147923665494  -5.320968525298468
+  -5.320554018412647  -5.439058300305046  -5.294746305287527  -5.421262460555997  -5.318525230756853  -5.312984870089344
+  -5.320593673863827  -5.442511638400649  -5.314561374578706  -5.311899071408957  -5.292727810521426  -5.320631045817967
+  -5.320557882122681  -5.303602587559668  -5.092799047379137  -5.314401888884655  -5.312048374858552  -5.319743831000077
+  -5.320550843349110  -5.456428869597547  -5.291864832988902  -5.434555364562543  -5.244257761167827  -5.320690592380605
+  -5.320574182189452  -5.236587893343406  -5.230712373183670  -5.653100514040618  -5.317585414483020  -5.318887007852462
+  -5.320590242941817  -5.456845167720689  -5.296159277883681  -5.345470038945561  -5.322705554493575  -5.343818004588537
+  -5.320551731157155  -5.324815743434106  -5.318774269877438  -5.761374565589662  -5.385323554971225  -5.309933183187606
+  -5.320554524988156  -5.023171587518927  -5.303378686581757  -5.316816877692335  -5.305386211296313  -5.317827196340719
+  -5.320521141325150  -5.333134252048731  -5.135042034598299  -5.315776793901989  -5.318300761419817  -5.347586224831380
+  -5.320561550468303  -5.461198326775381  -5.519295905254730  -5.232056346436732  -5.322678243891497  -5.325226041548823
+  -5.320539454559190  -5.693710673612736  -5.193515998659104  -5.228810035863655  -5.297496575784558  -5.311424038029116
+
+
+corrida =
+
+    30
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+  -5.320559691766392  -5.292206355021023  -5.289409453270417  -5.242898633464952  -5.321611764666309  -5.317179610259987
+  -5.320531933559382  -4.937929328122909  -5.279092204167989  -5.436333062293302  -5.305147923665494  -5.320968525298468
+  -5.320554018412647  -5.439058300305046  -5.294746305287527  -5.421262460555997  -5.318525230756853  -5.312984870089344
+  -5.320593673863827  -5.442511638400649  -5.314561374578706  -5.311899071408957  -5.292727810521426  -5.320631045817967
+  -5.320557882122681  -5.303602587559668  -5.092799047379137  -5.314401888884655  -5.312048374858552  -5.319743831000077
+  -5.320550843349110  -5.456428869597547  -5.291864832988902  -5.434555364562543  -5.244257761167827  -5.320690592380605
+  -5.320574182189452  -5.236587893343406  -5.230712373183670  -5.653100514040618  -5.317585414483020  -5.318887007852462
+  -5.320590242941817  -5.456845167720689  -5.296159277883681  -5.345470038945561  -5.322705554493575  -5.343818004588537
+  -5.320551731157155  -5.324815743434106  -5.318774269877438  -5.761374565589662  -5.385323554971225  -5.309933183187606
+  -5.320554524988156  -5.023171587518927  -5.303378686581757  -5.316816877692335  -5.305386211296313  -5.317827196340719
+  -5.320521141325150  -5.333134252048731  -5.135042034598299  -5.315776793901989  -5.318300761419817  -5.347586224831380
+  -5.320561550468303  -5.461198326775381  -5.519295905254730  -5.232056346436732  -5.322678243891497  -5.325226041548823
+  -5.320539454559190  -5.693710673612736  -5.193515998659104  -5.228810035863655  -5.297496575784558  -5.311424038029116
+  -5.320600626549352  -5.163578314503361  -5.325081468634933  -5.738421188488332  -5.306063122886730  -5.322233259645230
+
+
+corrida =
+
+    31
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In C_D_Experimentos at 68 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In C_D_Experimentos at 69 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In C_D_Experimentos at 70 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In C_D_Experimentos at 71 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In C_D_Experimentos at 72 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In C_D_Experimentos at 73 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In C_D_Experimentos at 73 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320533306443588  -5.441201247460255  -5.772550495917067  -5.402211393589632  -5.321107862455075  -5.319533652430523
+  -5.320576453891683  -5.379198705441458  -5.636418957509989  -5.320222487409016  -5.321276508931465  -5.321722060882784
+  -5.320579835471444  -5.745179855906715  -5.331718090696117  -5.757508454267085  -5.298364171964336  -5.308028832563786
+  -5.320894571635899  -5.366770690437948  -5.261596094518343  -5.787549020781581  -5.310257360650561  -5.321828277186896
+  -5.320577403058088  -5.086958936865133  -5.321763488446946  -5.444951882247795  -5.373038210561542  -5.322677932473968
+  -5.320543654241162  -5.171542928870998  -5.235341503338169  -5.312216150634350  -5.287771649184470  -5.320897451922384
+  -5.320655682239230  -5.317579850093972  -5.235849257328338  -5.311233281280519  -5.317980469309697  -5.322401126843587
+  -5.320593848260005  -5.401869715961252  -5.308318164031468  -5.225006926650504  -5.340010649945413  -5.320991588707703
+  -5.320598816651582  -5.247427925096918  -5.313574054062748  -5.743144833279436  -5.313443292484082  -5.319792412654393
+  -5.320550612504951  -5.656400767692269  -5.738584728113505  -5.315578506103434  -5.307225575095429  -5.322520797661198
+  -5.320580641501914  -5.236792235657573  -5.317806419665970  -5.821705223487001  -5.331283255607141  -5.322636338454396
+  -5.320615928613172  -5.220016729886694  -5.737414233895569  -5.228805830549658  -5.319133344087027  -5.322793813885586
+  -5.320549452679034  -5.691587441272517  -5.314785933292551  -5.318850175585682  -5.320161770200748  -5.324278139264269
+  -5.320547413439442  -5.647726383435598  -5.318080262139842  -5.241728262614316  -5.306302131965405  -5.323633589721497
+  -5.320562289834999  -5.511161101148825  -4.966986622230775  -5.461738011619970  -5.736458875134609  -5.365202738718128
+  -5.320664673961492  -5.509956249411247  -5.325161328943346  -5.266728782145884  -5.314431747536047  -5.322688839652225
+  -5.320559691766392  -5.292206355021023  -5.289409453270417  -5.242898633464952  -5.321611764666309  -5.317179610259987
+  -5.320531933559382  -4.937929328122909  -5.279092204167989  -5.436333062293302  -5.305147923665494  -5.320968525298468
+  -5.320554018412647  -5.439058300305046  -5.294746305287527  -5.421262460555997  -5.318525230756853  -5.312984870089344
+  -5.320593673863827  -5.442511638400649  -5.314561374578706  -5.311899071408957  -5.292727810521426  -5.320631045817967
+  -5.320557882122681  -5.303602587559668  -5.092799047379137  -5.314401888884655  -5.312048374858552  -5.319743831000077
+  -5.320550843349110  -5.456428869597547  -5.291864832988902  -5.434555364562543  -5.244257761167827  -5.320690592380605
+  -5.320574182189452  -5.236587893343406  -5.230712373183670  -5.653100514040618  -5.317585414483020  -5.318887007852462
+  -5.320590242941817  -5.456845167720689  -5.296159277883681  -5.345470038945561  -5.322705554493575  -5.343818004588537
+  -5.320551731157155  -5.324815743434106  -5.318774269877438  -5.761374565589662  -5.385323554971225  -5.309933183187606
+  -5.320554524988156  -5.023171587518927  -5.303378686581757  -5.316816877692335  -5.305386211296313  -5.317827196340719
+  -5.320521141325150  -5.333134252048731  -5.135042034598299  -5.315776793901989  -5.318300761419817  -5.347586224831380
+  -5.320561550468303  -5.461198326775381  -5.519295905254730  -5.232056346436732  -5.322678243891497  -5.325226041548823
+  -5.320539454559190  -5.693710673612736  -5.193515998659104  -5.228810035863655  -5.297496575784558  -5.311424038029116
+  -5.320600626549352  -5.163578314503361  -5.325081468634933  -5.738421188488332  -5.306063122886730  -5.322233259645230
+  -5.320587796165944  -5.244597633898382  -5.229118639340849  -5.297773005224788  -5.317293956807546  -5.322614653359591
+
+ALGORTIMO 1
+
+mejor =
+
+    -5.320894571635899e+05
+
+
+peor =
+
+    -5.320521141325150e+05
+
+
+mediana =
+
+    -5.320562289834998e+05
+
+
+promedio =
+
+    -5.320582383156330e+05
+
+
+desviacion =
+
+   6.649628969979998
+
+ALGORTIMO 2
+
+mejor =
+
+    -5.745179855906714e+05
+
+
+peor =
+
+    -4.937929328122909e+05
+
+
+mediana =
+
+    -5.366770690437948e+05
+
+
+promedio =
+
+    -5.369056368919417e+05
+
+
+desviacion =
+
+     1.967762363149304e+04
+
+ALGORTIMO 3
+
+mejor =
+
+    -5.772550495917067e+05
+
+
+peor =
+
+    -4.966986622230775e+05
+
+
+mediana =
+
+    -5.308318164031468e+05
+
+
+promedio =
+
+    -5.330629080832835e+05
+
+
+desviacion =
+
+     1.785352814972493e+04
+
+ALGORTIMO 4
+
+mejor =
+
+    -5.821705223487001e+05
+
+
+peor =
+
+    -5.225006926650505e+05
+
+
+mediana =
+
+    -5.318850175585683e+05
+
+
+promedio =
+
+    -5.419681582890323e+05
+
+
+desviacion =
+
+     1.951654581203299e+04
+
+ALGORTIMO 5
+
+mejor =
+
+    -5.736458875134609e+05
+
+
+peor =
+
+    -5.244257761167827e+05
+
+
+mediana =
+
+    -5.317585414483020e+05
+
+
+promedio =
+
+    -5.329206423767220e+05
+
+
+desviacion =
+
+     7.919735845722464e+03
+
+ALGORTIMO 6
+
+mejor =
+
+    -5.365202738718127e+05
+
+
+peor =
+
+    -5.308028832563786e+05
+
+
+mediana =
+
+    -5.321722060882783e+05
+
+
+promedio =
+
+    -5.323012118621072e+05
+
+
+desviacion =
+
+     1.094501865931869e+03
+
+******* Friedman Test results ********
+
+p =
+
+   0.032643334080490
+
+
+tbl = 
+
+    'Source'     'SS'                       'df'     'MS'                   'Chi-sq'                'Prob>Chi-sq'      
+    'Columns'    [   42.564516129032242]    [  5]    [8.512903225806449]    [12.161290322580641]    [0.032643334080490]
+    'Error'      [4.999354838709677e+02]    [150]    [3.332903225806452]                      []                     []
+    'Total'      [5.425000000000000e+02]    [185]                     []                      []                     []
+
+
+stats = 
+
+       source: 'friedman'
+            n: 31
+    meanranks: [3.322580645161291 3.193548387096774 4.322580645161290 3.387096774193549 3.903225806451613 2.870967741935484]
+        sigma: 1.870828693386971
+
+******* Bonferrony Test results ******
+Note: Intervals can be used for testing but are not simultaneous confidence intervals.
+
+results =
+
+   1.000000000000000   2.000000000000000  -1.265748005057628   0.129032258064516   1.523812521186661
+   1.000000000000000   3.000000000000000  -2.394780263122144  -1.000000000000000   0.394780263122145
+   1.000000000000000   4.000000000000000  -1.459296392154403  -0.064516129032258   1.330264134089887
+   1.000000000000000   5.000000000000000  -1.975425424412467  -0.580645161290323   0.814135101831822
+   1.000000000000000   6.000000000000000  -0.943167359896338   0.451612903225806   1.846393166347951
+   2.000000000000000   3.000000000000000  -2.523812521186661  -1.129032258064516   0.265748005057629
+   2.000000000000000   4.000000000000000  -1.588328650218919  -0.193548387096774   1.201231876025370
+   2.000000000000000   5.000000000000000  -2.104457682476984  -0.709677419354839   0.685102843767306
+   2.000000000000000   6.000000000000000  -1.072199617960855   0.322580645161290   1.717360908283435
+   3.000000000000000   4.000000000000000  -0.459296392154403   0.935483870967742   2.330264134089886
+   3.000000000000000   5.000000000000000  -0.975425424412468   0.419354838709677   1.814135101831822
+   3.000000000000000   6.000000000000000   0.056832640103661   1.451612903225806   2.846393166347951
+   4.000000000000000   5.000000000000000  -1.910909295380209  -0.516129032258065   0.878651230864080
+   4.000000000000000   6.000000000000000  -0.878651230864080   0.516129032258065   1.910909295380209
+   5.000000000000000   6.000000000000000  -0.362522198606016   1.032258064516129   2.427038327638274
+
+
+means =
+
+   3.322580645161291   0.336010752516124
+   3.193548387096774   0.336010752516124
+   4.322580645161290   0.336010752516124
+   3.387096774193549   0.336010752516124
+   3.903225806451613   0.336010752516124
+   2.870967741935484   0.336010752516124
+
+
+h =
+
+     2
+
+>> 

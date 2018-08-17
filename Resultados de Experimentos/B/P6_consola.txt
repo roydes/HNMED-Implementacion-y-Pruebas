@@ -1,0 +1,2201 @@
+>> graficas_convergencia
+Warning: Directory already exists. 
+> In graficas_convergencia at 108 
+Warning: Directory already exists. 
+> In graficas_convergencia at 111 
+Warning: Directory already exists. 
+> In graficas_convergencia at 114 
+Warning: Directory already exists. 
+> In graficas_convergencia at 117 
+
+Problema =
+
+     6
+
+
+Evaluaciones =
+
+       12000
+
+
+N =
+
+     4
+
+
+Cantidad_Simplex =
+
+    10
+
+
+Poblacion =
+
+    50
+
+
+corrida =
+
+     1
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+
+
+corrida =
+
+     2
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+
+
+corrida =
+
+     3
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+
+
+corrida =
+
+     4
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+
+
+corrida =
+
+     5
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+
+
+corrida =
+
+     6
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+
+
+corrida =
+
+     7
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+
+
+corrida =
+
+     8
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+
+
+corrida =
+
+     9
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+
+
+corrida =
+
+    10
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+
+
+corrida =
+
+    11
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+
+
+corrida =
+
+    12
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+
+
+corrida =
+
+    13
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+
+
+corrida =
+
+    14
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+
+
+corrida =
+
+    15
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+
+
+corrida =
+
+    16
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+
+
+corrida =
+
+    17
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+  -5.320563442371781  -5.247907993013197  -5.300139240189614  -5.302742773344321  -5.320723588450369  -5.320532845640434
+
+
+corrida =
+
+    18
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+  -5.320563442371781  -5.247907993013197  -5.300139240189614  -5.302742773344321  -5.320723588450369  -5.320532845640434
+  -5.320673298454842  -5.185389492212485  -5.309172538966806  -5.320273358391556  -5.318334286181268  -5.322659194727264
+
+
+corrida =
+
+    19
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+  -5.320563442371781  -5.247907993013197  -5.300139240189614  -5.302742773344321  -5.320723588450369  -5.320532845640434
+  -5.320673298454842  -5.185389492212485  -5.309172538966806  -5.320273358391556  -5.318334286181268  -5.322659194727264
+  -5.320540223934911  -5.318584369495231  -5.441669919001368  -5.314623954216388  -5.318413264855173  -5.320950237218487
+
+
+corrida =
+
+    20
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+  -5.320563442371781  -5.247907993013197  -5.300139240189614  -5.302742773344321  -5.320723588450369  -5.320532845640434
+  -5.320673298454842  -5.185389492212485  -5.309172538966806  -5.320273358391556  -5.318334286181268  -5.322659194727264
+  -5.320540223934911  -5.318584369495231  -5.441669919001368  -5.314623954216388  -5.318413264855173  -5.320950237218487
+  -5.320548458537080  -5.285595087159186  -5.313272150666475  -5.314442794831525  -5.315695905096546  -5.320583468701670
+
+
+corrida =
+
+    21
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+  -5.320563442371781  -5.247907993013197  -5.300139240189614  -5.302742773344321  -5.320723588450369  -5.320532845640434
+  -5.320673298454842  -5.185389492212485  -5.309172538966806  -5.320273358391556  -5.318334286181268  -5.322659194727264
+  -5.320540223934911  -5.318584369495231  -5.441669919001368  -5.314623954216388  -5.318413264855173  -5.320950237218487
+  -5.320548458537080  -5.285595087159186  -5.313272150666475  -5.314442794831525  -5.315695905096546  -5.320583468701670
+  -5.320585970931290  -5.438876562355850  -5.303270943415131  -5.302675889526630  -5.318690660878006  -5.321761573717259
+
+
+corrida =
+
+    22
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+  -5.320563442371781  -5.247907993013197  -5.300139240189614  -5.302742773344321  -5.320723588450369  -5.320532845640434
+  -5.320673298454842  -5.185389492212485  -5.309172538966806  -5.320273358391556  -5.318334286181268  -5.322659194727264
+  -5.320540223934911  -5.318584369495231  -5.441669919001368  -5.314623954216388  -5.318413264855173  -5.320950237218487
+  -5.320548458537080  -5.285595087159186  -5.313272150666475  -5.314442794831525  -5.315695905096546  -5.320583468701670
+  -5.320585970931290  -5.438876562355850  -5.303270943415131  -5.302675889526630  -5.318690660878006  -5.321761573717259
+  -5.320568137686248  -5.305952373243432  -5.330919488275201  -5.318816395297540  -5.319931649854689  -5.320700746981471
+
+
+corrida =
+
+    23
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+  -5.320563442371781  -5.247907993013197  -5.300139240189614  -5.302742773344321  -5.320723588450369  -5.320532845640434
+  -5.320673298454842  -5.185389492212485  -5.309172538966806  -5.320273358391556  -5.318334286181268  -5.322659194727264
+  -5.320540223934911  -5.318584369495231  -5.441669919001368  -5.314623954216388  -5.318413264855173  -5.320950237218487
+  -5.320548458537080  -5.285595087159186  -5.313272150666475  -5.314442794831525  -5.315695905096546  -5.320583468701670
+  -5.320585970931290  -5.438876562355850  -5.303270943415131  -5.302675889526630  -5.318690660878006  -5.321761573717259
+  -5.320568137686248  -5.305952373243432  -5.330919488275201  -5.318816395297540  -5.319931649854689  -5.320700746981471
+  -5.320541751919714  -5.704909389556972  -5.313029219505149  -5.314882830043671  -5.319072313993826  -5.320910863206211
+
+
+corrida =
+
+    24
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+  -5.320563442371781  -5.247907993013197  -5.300139240189614  -5.302742773344321  -5.320723588450369  -5.320532845640434
+  -5.320673298454842  -5.185389492212485  -5.309172538966806  -5.320273358391556  -5.318334286181268  -5.322659194727264
+  -5.320540223934911  -5.318584369495231  -5.441669919001368  -5.314623954216388  -5.318413264855173  -5.320950237218487
+  -5.320548458537080  -5.285595087159186  -5.313272150666475  -5.314442794831525  -5.315695905096546  -5.320583468701670
+  -5.320585970931290  -5.438876562355850  -5.303270943415131  -5.302675889526630  -5.318690660878006  -5.321761573717259
+  -5.320568137686248  -5.305952373243432  -5.330919488275201  -5.318816395297540  -5.319931649854689  -5.320700746981471
+  -5.320541751919714  -5.704909389556972  -5.313029219505149  -5.314882830043671  -5.319072313993826  -5.320910863206211
+  -5.320531000693949  -5.257157476429693  -5.318949629019167  -5.311250391016037  -5.323268537402353  -5.322710075497729
+
+
+corrida =
+
+    25
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+  -5.320563442371781  -5.247907993013197  -5.300139240189614  -5.302742773344321  -5.320723588450369  -5.320532845640434
+  -5.320673298454842  -5.185389492212485  -5.309172538966806  -5.320273358391556  -5.318334286181268  -5.322659194727264
+  -5.320540223934911  -5.318584369495231  -5.441669919001368  -5.314623954216388  -5.318413264855173  -5.320950237218487
+  -5.320548458537080  -5.285595087159186  -5.313272150666475  -5.314442794831525  -5.315695905096546  -5.320583468701670
+  -5.320585970931290  -5.438876562355850  -5.303270943415131  -5.302675889526630  -5.318690660878006  -5.321761573717259
+  -5.320568137686248  -5.305952373243432  -5.330919488275201  -5.318816395297540  -5.319931649854689  -5.320700746981471
+  -5.320541751919714  -5.704909389556972  -5.313029219505149  -5.314882830043671  -5.319072313993826  -5.320910863206211
+  -5.320531000693949  -5.257157476429693  -5.318949629019167  -5.311250391016037  -5.323268537402353  -5.322710075497729
+  -5.320567189599151  -5.244312415443405  -5.214686419867247  -5.619596147886502  -5.327704546042420  -5.322703146232844
+
+
+corrida =
+
+    26
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+  -5.320563442371781  -5.247907993013197  -5.300139240189614  -5.302742773344321  -5.320723588450369  -5.320532845640434
+  -5.320673298454842  -5.185389492212485  -5.309172538966806  -5.320273358391556  -5.318334286181268  -5.322659194727264
+  -5.320540223934911  -5.318584369495231  -5.441669919001368  -5.314623954216388  -5.318413264855173  -5.320950237218487
+  -5.320548458537080  -5.285595087159186  -5.313272150666475  -5.314442794831525  -5.315695905096546  -5.320583468701670
+  -5.320585970931290  -5.438876562355850  -5.303270943415131  -5.302675889526630  -5.318690660878006  -5.321761573717259
+  -5.320568137686248  -5.305952373243432  -5.330919488275201  -5.318816395297540  -5.319931649854689  -5.320700746981471
+  -5.320541751919714  -5.704909389556972  -5.313029219505149  -5.314882830043671  -5.319072313993826  -5.320910863206211
+  -5.320531000693949  -5.257157476429693  -5.318949629019167  -5.311250391016037  -5.323268537402353  -5.322710075497729
+  -5.320567189599151  -5.244312415443405  -5.214686419867247  -5.619596147886502  -5.327704546042420  -5.322703146232844
+  -5.320571134660416  -5.322832921249386  -5.310242745664856  -5.316394071454515  -5.315982922434079  -5.320867616618886
+
+
+corrida =
+
+    27
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+  -5.320563442371781  -5.247907993013197  -5.300139240189614  -5.302742773344321  -5.320723588450369  -5.320532845640434
+  -5.320673298454842  -5.185389492212485  -5.309172538966806  -5.320273358391556  -5.318334286181268  -5.322659194727264
+  -5.320540223934911  -5.318584369495231  -5.441669919001368  -5.314623954216388  -5.318413264855173  -5.320950237218487
+  -5.320548458537080  -5.285595087159186  -5.313272150666475  -5.314442794831525  -5.315695905096546  -5.320583468701670
+  -5.320585970931290  -5.438876562355850  -5.303270943415131  -5.302675889526630  -5.318690660878006  -5.321761573717259
+  -5.320568137686248  -5.305952373243432  -5.330919488275201  -5.318816395297540  -5.319931649854689  -5.320700746981471
+  -5.320541751919714  -5.704909389556972  -5.313029219505149  -5.314882830043671  -5.319072313993826  -5.320910863206211
+  -5.320531000693949  -5.257157476429693  -5.318949629019167  -5.311250391016037  -5.323268537402353  -5.322710075497729
+  -5.320567189599151  -5.244312415443405  -5.214686419867247  -5.619596147886502  -5.327704546042420  -5.322703146232844
+  -5.320571134660416  -5.322832921249386  -5.310242745664856  -5.316394071454515  -5.315982922434079  -5.320867616618886
+  -5.320574430173279  -5.309968720838199  -5.289970244794248  -5.313422875549487  -5.318078009038771  -5.322443944568327
+
+
+corrida =
+
+    28
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+  -5.320563442371781  -5.247907993013197  -5.300139240189614  -5.302742773344321  -5.320723588450369  -5.320532845640434
+  -5.320673298454842  -5.185389492212485  -5.309172538966806  -5.320273358391556  -5.318334286181268  -5.322659194727264
+  -5.320540223934911  -5.318584369495231  -5.441669919001368  -5.314623954216388  -5.318413264855173  -5.320950237218487
+  -5.320548458537080  -5.285595087159186  -5.313272150666475  -5.314442794831525  -5.315695905096546  -5.320583468701670
+  -5.320585970931290  -5.438876562355850  -5.303270943415131  -5.302675889526630  -5.318690660878006  -5.321761573717259
+  -5.320568137686248  -5.305952373243432  -5.330919488275201  -5.318816395297540  -5.319931649854689  -5.320700746981471
+  -5.320541751919714  -5.704909389556972  -5.313029219505149  -5.314882830043671  -5.319072313993826  -5.320910863206211
+  -5.320531000693949  -5.257157476429693  -5.318949629019167  -5.311250391016037  -5.323268537402353  -5.322710075497729
+  -5.320567189599151  -5.244312415443405  -5.214686419867247  -5.619596147886502  -5.327704546042420  -5.322703146232844
+  -5.320571134660416  -5.322832921249386  -5.310242745664856  -5.316394071454515  -5.315982922434079  -5.320867616618886
+  -5.320574430173279  -5.309968720838199  -5.289970244794248  -5.313422875549487  -5.318078009038771  -5.322443944568327
+  -5.320577301821112  -5.382284424987716  -5.312935520679268  -5.350043363941898  -5.312277341566576  -5.321503008009901
+
+
+corrida =
+
+    29
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+  -5.320563442371781  -5.247907993013197  -5.300139240189614  -5.302742773344321  -5.320723588450369  -5.320532845640434
+  -5.320673298454842  -5.185389492212485  -5.309172538966806  -5.320273358391556  -5.318334286181268  -5.322659194727264
+  -5.320540223934911  -5.318584369495231  -5.441669919001368  -5.314623954216388  -5.318413264855173  -5.320950237218487
+  -5.320548458537080  -5.285595087159186  -5.313272150666475  -5.314442794831525  -5.315695905096546  -5.320583468701670
+  -5.320585970931290  -5.438876562355850  -5.303270943415131  -5.302675889526630  -5.318690660878006  -5.321761573717259
+  -5.320568137686248  -5.305952373243432  -5.330919488275201  -5.318816395297540  -5.319931649854689  -5.320700746981471
+  -5.320541751919714  -5.704909389556972  -5.313029219505149  -5.314882830043671  -5.319072313993826  -5.320910863206211
+  -5.320531000693949  -5.257157476429693  -5.318949629019167  -5.311250391016037  -5.323268537402353  -5.322710075497729
+  -5.320567189599151  -5.244312415443405  -5.214686419867247  -5.619596147886502  -5.327704546042420  -5.322703146232844
+  -5.320571134660416  -5.322832921249386  -5.310242745664856  -5.316394071454515  -5.315982922434079  -5.320867616618886
+  -5.320574430173279  -5.309968720838199  -5.289970244794248  -5.313422875549487  -5.318078009038771  -5.322443944568327
+  -5.320577301821112  -5.382284424987716  -5.312935520679268  -5.350043363941898  -5.312277341566576  -5.321503008009901
+  -5.320558950920137  -5.459352550272850  -5.323874600170781  -5.517726673566815  -5.320999322985564  -5.322704995874179
+
+
+corrida =
+
+    30
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+  -5.320563442371781  -5.247907993013197  -5.300139240189614  -5.302742773344321  -5.320723588450369  -5.320532845640434
+  -5.320673298454842  -5.185389492212485  -5.309172538966806  -5.320273358391556  -5.318334286181268  -5.322659194727264
+  -5.320540223934911  -5.318584369495231  -5.441669919001368  -5.314623954216388  -5.318413264855173  -5.320950237218487
+  -5.320548458537080  -5.285595087159186  -5.313272150666475  -5.314442794831525  -5.315695905096546  -5.320583468701670
+  -5.320585970931290  -5.438876562355850  -5.303270943415131  -5.302675889526630  -5.318690660878006  -5.321761573717259
+  -5.320568137686248  -5.305952373243432  -5.330919488275201  -5.318816395297540  -5.319931649854689  -5.320700746981471
+  -5.320541751919714  -5.704909389556972  -5.313029219505149  -5.314882830043671  -5.319072313993826  -5.320910863206211
+  -5.320531000693949  -5.257157476429693  -5.318949629019167  -5.311250391016037  -5.323268537402353  -5.322710075497729
+  -5.320567189599151  -5.244312415443405  -5.214686419867247  -5.619596147886502  -5.327704546042420  -5.322703146232844
+  -5.320571134660416  -5.322832921249386  -5.310242745664856  -5.316394071454515  -5.315982922434079  -5.320867616618886
+  -5.320574430173279  -5.309968720838199  -5.289970244794248  -5.313422875549487  -5.318078009038771  -5.322443944568327
+  -5.320577301821112  -5.382284424987716  -5.312935520679268  -5.350043363941898  -5.312277341566576  -5.321503008009901
+  -5.320558950920137  -5.459352550272850  -5.323874600170781  -5.517726673566815  -5.320999322985564  -5.322704995874179
+  -5.320589851544675  -5.335620876048364  -5.321409154120344  -5.309430432965096  -5.309244324494631  -5.320827056874396
+
+
+corrida =
+
+    31
+
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 55
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_DE_rand_1_bin at 58
+  In graficas_convergencia at 160 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 59
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED1 at 62
+  In graficas_convergencia at 161 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 59
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED2 at 62
+  In graficas_convergencia at 162 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 59
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED3 at 62
+  In graficas_convergencia at 163 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 59
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED4 at 62
+  In graficas_convergencia at 164 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 59
+  In graficas_convergencia at 165 
+Warning: Directory already exists. 
+> In MR_HNMED5 at 62
+  In graficas_convergencia at 165 
+
+Solutions =
+
+   1.0e+05 *
+
+  -5.320588648431929  -5.430532981048775  -5.298646695963910  -5.315491228134938  -5.307168230286693  -5.321409356539559
+  -5.320542095945573  -5.230887855910130  -5.315860917474589  -5.297789364084013  -5.315280802466820  -5.320704957174852
+  -5.320557253265359  -5.208186719489241  -5.316463741140762  -5.284571659607112  -5.329157286091907  -5.322347379339915
+  -5.320563253438031  -5.440691704706079  -5.351302843102348  -5.306146982540769  -5.317227952957077  -5.322975221549787
+  -5.320555224290216  -5.341711863727194  -5.441784349959374  -5.311386334454730  -5.324698101267690  -5.321399937451548
+  -5.320577262579009  -5.376914839683184  -5.319590473500545  -5.277235119862398  -5.316822620925056  -5.320578446144283
+  -5.320561928337385  -5.414934656458467  -5.244640247018574  -5.277374610849670  -5.331118036680648  -5.320657618680637
+  -5.320649317729024  -5.209493633236423  -5.323545575561466  -5.312246233590106  -5.324314354763173  -5.320646898529677
+  -5.320579050362500  -5.166895243558849  -5.323395881371306  -5.301661914605044  -5.318440851017137  -5.320772007535846
+  -5.320537266001616  -5.300466739928115  -5.314461002397505  -5.318475015775947  -5.317893683688379  -5.319845509628288
+  -5.320631499234384  -5.398850375173620  -5.334150012367656  -5.315719005902437  -5.315277940247002  -5.320667704278703
+  -5.320497903344426  -5.301546891942777  -5.774122198166484  -5.464762588024302  -5.315359732403771  -5.321858562382572
+  -5.320574188854253  -5.285375417962086  -5.364431528711688  -5.313562806621261  -5.315782272429076  -5.323895160677818
+  -5.320575572406974  -5.101619751133404  -5.312272892983989  -5.317568240065918  -5.329215096096621  -5.320439619791322
+  -5.320561138093453  -5.241543150493422  -5.315391807580800  -5.293494796637447  -5.320735915273883  -5.322348347260950
+  -5.320565934263219  -5.210643908644352  -5.317511486500234  -5.295875470326608  -5.323086360725397  -5.320455929585025
+  -5.320563442371781  -5.247907993013197  -5.300139240189614  -5.302742773344321  -5.320723588450369  -5.320532845640434
+  -5.320673298454842  -5.185389492212485  -5.309172538966806  -5.320273358391556  -5.318334286181268  -5.322659194727264
+  -5.320540223934911  -5.318584369495231  -5.441669919001368  -5.314623954216388  -5.318413264855173  -5.320950237218487
+  -5.320548458537080  -5.285595087159186  -5.313272150666475  -5.314442794831525  -5.315695905096546  -5.320583468701670
+  -5.320585970931290  -5.438876562355850  -5.303270943415131  -5.302675889526630  -5.318690660878006  -5.321761573717259
+  -5.320568137686248  -5.305952373243432  -5.330919488275201  -5.318816395297540  -5.319931649854689  -5.320700746981471
+  -5.320541751919714  -5.704909389556972  -5.313029219505149  -5.314882830043671  -5.319072313993826  -5.320910863206211
+  -5.320531000693949  -5.257157476429693  -5.318949629019167  -5.311250391016037  -5.323268537402353  -5.322710075497729
+  -5.320567189599151  -5.244312415443405  -5.214686419867247  -5.619596147886502  -5.327704546042420  -5.322703146232844
+  -5.320571134660416  -5.322832921249386  -5.310242745664856  -5.316394071454515  -5.315982922434079  -5.320867616618886
+  -5.320574430173279  -5.309968720838199  -5.289970244794248  -5.313422875549487  -5.318078009038771  -5.322443944568327
+  -5.320577301821112  -5.382284424987716  -5.312935520679268  -5.350043363941898  -5.312277341566576  -5.321503008009901
+  -5.320558950920137  -5.459352550272850  -5.323874600170781  -5.517726673566815  -5.320999322985564  -5.322704995874179
+  -5.320589851544675  -5.335620876048364  -5.321409154120344  -5.309430432965096  -5.309244324494631  -5.320827056874396
+  -5.320583027264751  -5.382067511876652  -5.280878795512162  -5.327954888376866  -5.451920645025711  -5.322698516938384
+
+ALGORTIMO 1
+
+mejor =
+
+    -5.320673298454842e+05
+
+
+peor =
+
+    -5.320497903344426e+05
+
+
+mediana =
+
+    -5.320567189599151e+05
+
+
+promedio =
+
+    -5.320570700228732e+05
+
+
+desviacion =
+
+   3.348310543117699
+
+ALGORTIMO 2
+
+mejor =
+
+    -5.704909389556972e+05
+
+
+peor =
+
+    -5.101619751133404e+05
+
+
+mediana =
+
+    -5.305952373243432e+05
+
+
+promedio =
+
+    -5.317455093460603e+05
+
+
+desviacion =
+
+     1.145299675527175e+04
+
+ALGORTIMO 3
+
+mejor =
+
+    -5.774122198166484e+05
+
+
+peor =
+
+    -5.214686419867247e+05
+
+
+mediana =
+
+    -5.315860917474589e+05
+
+
+promedio =
+
+    -5.333935234311259e+05
+
+
+desviacion =
+
+     9.201343022299334e+03
+
+ALGORTIMO 4
+
+mejor =
+
+    -5.619596147886502e+05
+
+
+peor =
+
+    -5.277235119862398e+05
+
+
+mediana =
+
+    -5.313562806621260e+05
+
+
+promedio =
+
+    -5.330891555209407e+05
+
+
+desviacion =
+
+     7.198562053773190e+03
+
+ALGORTIMO 5
+
+mejor =
+
+    -5.451920645025710e+05
+
+
+peor =
+
+    -5.307168230286692e+05
+
+
+mediana =
+
+    -5.318440851017137e+05
+
+
+promedio =
+
+    -5.323610211471623e+05
+
+
+desviacion =
+
+     2.443253387350762e+03
+
+ALGORTIMO 6
+
+mejor =
+
+    -5.323895160677818e+05
+
+
+peor =
+
+    -5.319845509628288e+05
+
+
+mediana =
+
+    -5.320950237218487e+05
+
+
+promedio =
+
+    -5.321469675721234e+05
+
+
+desviacion =
+
+     1.009656168728393e+02
+
+******* Friedman Test results ********
+
+p =
+
+   0.001720555979715
+
+
+tbl = 
+
+    'Source'     'SS'                       'df'     'MS'                    'Chi-sq'                'Prob>Chi-sq'      
+    'Columns'    [   67.403225806451601]    [  5]    [13.480645161290321]    [19.258064516129028]    [0.001720555979715]
+    'Error'      [4.750967741935484e+02]    [150]    [ 3.167311827956989]                      []                     []
+    'Total'      [5.425000000000000e+02]    [185]                      []                      []                     []
+
+
+stats = 
+
+       source: 'friedman'
+            n: 31
+    meanranks: [3.161290322580645 3.870967741935484 3.774193548387097 4.322580645161290 3.451612903225807 2.419354838709678]
+        sigma: 1.870828693386971
+
+******* Bonferrony Test results ******
+Note: Intervals can be used for testing but are not simultaneous confidence intervals.
+
+results =
+
+   1.000000000000000   2.000000000000000  -2.104457682476984  -0.709677419354839   0.685102843767306
+   1.000000000000000   3.000000000000000  -2.007683488928597  -0.612903225806452   0.781877037315693
+   1.000000000000000   4.000000000000000  -2.556070585702790  -1.161290322580645   0.233489940541500
+   1.000000000000000   5.000000000000000  -1.685102843767306  -0.290322580645161   1.104457682476983
+   1.000000000000000   6.000000000000000  -0.652844779251177   0.741935483870968   2.136715746993112
+   2.000000000000000   3.000000000000000  -1.298006069573758   0.096774193548387   1.491554456670532
+   2.000000000000000   4.000000000000000  -1.846393166347951  -0.451612903225806   0.943167359896339
+   2.000000000000000   5.000000000000000  -0.975425424412467   0.419354838709677   1.814135101831822
+   2.000000000000000   6.000000000000000   0.056832640103662   1.451612903225807   2.846393166347951
+   3.000000000000000   4.000000000000000  -1.943167359896338  -0.548387096774193   0.846393166347952
+   3.000000000000000   5.000000000000000  -1.072199617960854   0.322580645161290   1.717360908283435
+   3.000000000000000   6.000000000000000  -0.039941553444725   1.354838709677420   2.749618972799564
+   4.000000000000000   5.000000000000000  -0.523812521186661   0.870967741935484   2.265748005057628
+   4.000000000000000   6.000000000000000   0.508445543329468   1.903225806451613   3.298006069573757
+   5.000000000000000   6.000000000000000  -0.362522198606016   1.032258064516129   2.427038327638274
+
+
+means =
+
+   3.161290322580645   0.336010752516124
+   3.870967741935484   0.336010752516124
+   3.774193548387097   0.336010752516124
+   4.322580645161290   0.336010752516124
+   3.451612903225807   0.336010752516124
+   2.419354838709678   0.336010752516124
+
+
+h =
+
+     2
+
