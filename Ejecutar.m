@@ -12,7 +12,7 @@ bound_p5 = [0 100;0 100;0 100;-50 0;-50 0;-50 0;0 150;0 150;0 50;0 150;0 150;0 1
 bounds   = {bound_p1,bound_p2,bound_p3,bound_p4,bound_p5};
 E_SHADE  = [400000,15000,200000,325000,150000,10000];
 E_HNMED5 = [400000,15000, 225000,125000,225000,9000];
-E_HNMED6 = [350000,10000, 175000,125000,125000,9000];
+E_HNMED6 = [350000,10000, 175000,100000,125000,9000];
 S_HNMED5 = [7,  4,   7,   9,   9   ,7];
 S_HNMED6 = [7,  4,   5,   7,   7   ,2];
 
@@ -22,12 +22,12 @@ PathCurrent = struc.Name;
 GlobalFolderName='/Resultados de Experimentos';
 mkdir(PathCurrent, GlobalFolderName);
 
-FolderName=['/F'];
+FolderName=['/E'];
 PathFolder = [PathCurrent GlobalFolderName FolderName];
 mkdir([PathCurrent GlobalFolderName], FolderName);
 
 sample_size=31;
-for i=6:6
+for i=1:1
     Problema=i
     Evaluaciones=E_HNMED6(i)
     N=Ns(i)
@@ -45,8 +45,8 @@ for i=6:6
         corrida=j
         if i~=6
         %[C_LSHADE,E_F1]=CLSHADE(Ns(i),bounds{i},E_SHADE(i),j); 
-        % [HNMED5,E_F1]= Nelder_Mead_ED5(E_HNMED6(i),S_HNMED6(i)); 
-        [HNMED6,E_F1]= Nelder_Mead_ED6(E_HNMED6(i),S_HNMED6(i));
+        % [HNMED5,E_F1]= HNMEDV5(E_HNMED6(i),S_HNMED6(i)); 
+        [HNMED6,E_F1]= HNMEDV6(E_HNMED6(i),S_HNMED6(i));
         %C_LSHADE
         %HNMED5
         HNMED6
@@ -69,8 +69,9 @@ for i=6:6
         end
         % Arreglos con tasas de convergencia para cada ejecución
         E_F1s{j}=E_F1(1:end,:,:);
+        
     end
-    
+    dsd
     mejor=min(Solutions)
     peor=max(Solutions)
     mediana=median(Solutions)
@@ -105,21 +106,21 @@ for i=6:6
     %*************** SALVANDO  ****************************
     % Grafica funciones de convergencian Experimento.
    % Name = ['/G-Datos_graficas_convergencia_CLSHADE_P_' num2str(i) '.xls'];
-    Name = ['/F-Datos_graficas_convergencia_HNMED5_P_' num2str(i) '.xls'];
-    %Name = ['/G-Datos_graficas_convergencia_HNMED6_P_' num2str(i) '.xls'];
+   % Name = ['/F-Datos_graficas_convergencia_HNMED5_P_' num2str(i) '.xls'];
+    Name = ['/G-Datos_graficas_convergencia_HNMED6_P_' num2str(i) '.xls'];
     
     Nameexcel = [PathFolder Name];
     E_F1=squeeze(E_F1);
     xlswrite(Nameexcel,E_F1,1,'A1');
   
     % Salvando resultados de Ejecuciones
-    %Name = ['/F-Resultados_CLSHADE_Estadistica_Problema_' num2str(i) '.xls'];
-     Name = ['/F-Resultados_HNMED5_Estadistica_Problema_' num2str(i) '.xls'];
-    %Name = ['/F-Resultados_HNMED6_Estadistica_Problema_' num2str(i) '.xls'];
+    % Name = ['/F-Resultados_CLSHADE_Estadistica_Problema_' num2str(i) '.xls'];
+    % Name = ['/F-Resultados_HNMED5_Estadistica_Problema_' num2str(i) '.xls'];
+      Name = ['/F-Resultados_HNMED6_Estadistica_Problema_' num2str(i) '.xls'];
     Nameexcel = [PathFolder Name];
-    %encabezado = {'CLSHADE'};
-    encabezado = {'HNMED5'};
-    %encabezado = {'HNMED6'};
+    % encabezado = {'CLSHADE'};
+    % encabezado = {'HNMED5'};
+      encabezado = {'HNMED6'};
     xlswrite(Nameexcel, encabezado, 1, 'B1');
     xlswrite(Nameexcel, Solutions, 1, 'B2');
     xlswrite(Nameexcel, {'Mejor'}, 1, 'A33');

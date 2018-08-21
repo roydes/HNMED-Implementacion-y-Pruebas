@@ -21,7 +21,7 @@ PathCurrent = struc.Name;
 GlobalFolderName='/Resultados de Experimentos';
 mkdir(PathCurrent, GlobalFolderName);
 
-FolderName=['/G'];
+FolderName=['/E'];
 PathFolder = [PathCurrent GlobalFolderName FolderName];
 mkdir([PathCurrent GlobalFolderName], FolderName);
 

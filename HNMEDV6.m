@@ -49,7 +49,6 @@ while E<NE
         xc= sum(Sk(1:n,:))/(n);
         %________Reflexión____________________
         xr=alpha*xc(1:n)-xh(1:n);
-        xr=limit(xr,bounds);
         xr=evaluate_x_i(xr,n);
         xnew=xr;
         E=E+1;        

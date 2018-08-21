@@ -1,10 +1,3 @@
->> C_D_Experimentos
-Warning: Directory already exists. 
-> In C_D_Experimentos at 31 
-Warning: Directory already exists. 
-> In C_D_Experimentos at 35 
-Warning: Directory already exists. 
-> In C_D_Experimentos at 39 
 
 Problema =
 

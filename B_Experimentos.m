@@ -24,7 +24,7 @@ FolderName=['/B'];
 PathFolder = [PathCurrent GlobalFolderName FolderName];
 mkdir([PathCurrent GlobalFolderName], FolderName);
 
-FolderName2=['/C'];
+FolderName2=['/B'];
 PathFolder2 = [PathCurrent GlobalFolderName FolderName2];
 mkdir([PathCurrent GlobalFolderName], FolderName2);
 

@@ -23,11 +23,11 @@ PathCurrent = struc.Name;
 GlobalFolderName='/Resultados de Experimentos';
 mkdir(PathCurrent, GlobalFolderName);
 
-FolderName=['/F'];
+FolderName=['/D'];
 PathFolder = [PathCurrent GlobalFolderName FolderName];
 mkdir([PathCurrent GlobalFolderName], FolderName);
 
-FolderName2=['/F'];
+FolderName2=['/D'];
 PathFolder2 = [PathCurrent GlobalFolderName FolderName2];
 mkdir([PathCurrent GlobalFolderName], FolderName2);
 sample_size=31

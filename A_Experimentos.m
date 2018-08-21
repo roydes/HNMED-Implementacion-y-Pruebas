@@ -29,7 +29,7 @@ for i=1:problems
     set_problem_bound(bounds{i});
     
     Solutions=[];
-    for j=1:3
+    for j=1:31
         corrida=j
         [NM1]= NM(E(i));
         [NM2]= NMS(E(i));
